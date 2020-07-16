@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW8</string>
+    <string name="record">录制</string>
+    <string name="stop">停止</string>
+    <string name="title_activity_take_picture">拍照</string>
+    <string name="title_activity_record_video">录像</string>
+</resources>
